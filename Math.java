@@ -10,4 +10,8 @@ public class Math {
   public double resta(double a, double b) {
     return a - b;
   }
+
+  public double mult(double c, double d) {
+    return a * b;
+  }
 }
