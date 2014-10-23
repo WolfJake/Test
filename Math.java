@@ -12,6 +12,6 @@ public class Math {
   }
 
   public double mult(double c, double d) {
-    return a * b;
+    return c * d;
   }
 }
