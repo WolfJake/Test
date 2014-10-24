@@ -14,4 +14,8 @@ public class Math {
   public double mult(double c, double d) {
     return c * d;
   }
+  
+  public double divide(double a, double b) {
+	return a / b;
+  }
 }
