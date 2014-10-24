@@ -6,4 +6,12 @@ public class Math {
   public double sum(double a, double b) {
     return a + b;
   }
+  
+  public double resta(double a, double b) {
+    return a - b;
+  }
+
+  public double mult(double c, double d) {
+    return c * d;
+  }
 }
